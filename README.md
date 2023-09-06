@@ -1,1 +1,1 @@
-# Weather-REST-API-SMS-Script
+Python automated scripts be scheduled daily with Windows Task Scheduler or Crons for Mac which requests weather information at runtime hour and utilizes the Twilio REST API to send the information via sms. This project was an attempt to develop practical python scripts whilst learning the implementation of REST APIs.
